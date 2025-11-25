@@ -13,7 +13,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  color: var(--ink);
+  color: #8b1abb;
   background: var(--bg);
   font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -56,7 +56,7 @@ html, body {
 
 .title {
   margin: 0;
-  color: var(--muted);
+  color: #ad1ea2;
   font-weight: 600;
 }
 
@@ -95,7 +95,7 @@ html, body {
 
 .workshop-card p {
   margin: 0;
-  color: var(--muted);
+  color: #ad1ea2;
 }
 
 /* Footer */
@@ -108,8 +108,8 @@ html, body {
 }
 
 .footer a {
-  color: var(--ink);
-  text-decoration-color: var(--accent);
+  color: #8b1abb;
+  text-decoration-color: #ad1ea2;
   text-underline-offset: 3px;
 }
 
