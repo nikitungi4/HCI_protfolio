@@ -1,10 +1,10 @@
 /* Base styles */
 :root {
-  --bg: #eaf7ea;          /* light green background */
+  --bg: #f9e7ff;          /* light green background */
   --card: #ffffff;        /* card background */
-  --ink: #18331b;         /* dark green text */
-  --muted: #3b6b3f;       /* muted green text */
-  --accent: #81c784;      /* accent green */
+  --ink: #8b1abb;         /* dark green text */
+  --muted: #ad1ea2;       /* muted green text */
+  --accent: #ad1ea2;      /* accent green */
   --ring: rgba(0,0,0,0.06);
 }
 
